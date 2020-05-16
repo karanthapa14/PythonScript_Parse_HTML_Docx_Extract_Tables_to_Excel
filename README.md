@@ -1,5 +1,9 @@
 ## Python Script development to parse and extract test case info from DOCX file
 
+### Pre-requisite
+Python 3.x
+PyCharm
+
 ### Challenge Overview
 1. Take the attached HTML file and scan through all the flow blocks.
 2. Pick up all the names from the block which has the image or bust of a man. This name becomes the name of the test case (t-code)
